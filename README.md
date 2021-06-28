@@ -1,7 +1,7 @@
 # video-chat-app
 
 This app is created using mern stack.
-In this app , first we need to allow for camera. 
+In this app , first we need to allow for camera then 
 we can call a user and answer a call.
 
 
